@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AlarmClock</string>
+    <string name="s">S</string>
+    <string name="m">M</string>
+    <string name="tu">Tu</string>
+    <string name="w">W</string>
+    <string name="th">Th</string>
+    <string name="f">F</string>
+    <string name="sun">S</string>
+    <string name="weekly">Weekly</string>
+    <string name="time">time</string>
+    <string name="save">Save</string>
+    <string name="alarm_sounds">Alarm Sounds</string>
+    <string name="minion">Minion</string>
+    <string name="circle_of_life">Circle of Life</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok_i_m_up">Ok, I\'m Up</string>
+
+
+</resources>
